@@ -5,5 +5,3 @@
 #### Descrição
 
 Projeto desafio do bootcamp Orange Tech da DIO. Calculadora feita em React.js.
-
-Acesse aqui.
