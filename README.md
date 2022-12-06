@@ -4,4 +4,4 @@
 
 #### Descrição
 
-Projeto desafio do bootcamp Orange Tech da DIO. Calculadora feita em React.js.
+Calculadora feita em React.js
